@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cd": "^0.3.3",
+    "dotenv-cli": "^7.2.1"
+  }
+}
